@@ -36,10 +36,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+I am a skilled full stack web application developer based in India, specializing in Python development. With a strong foundation in both front-end and back-end technologies, I excel in crafting dynamic and responsive web applications that meet the unique needs of clients and users. My expertise spans across the entire development lifecycle, from conceptualization and design to implementation and deployment. I am passionate about leveraging the latest tools and frameworks to deliver high-quality, scalable solutions that drive business growth and user engagement. With a keen eye for detail and a commitment to excellence, I strive to continuously enhance my skills and stay updated with the ever-evolving landscape of web development.
 
 </p>
 
