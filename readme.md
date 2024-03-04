@@ -19,10 +19,10 @@
 <p align="center">
  <a href="https://asifxohd.github.io/portfolio-website/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
+ </a>&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/asifxohd9207850084/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
+ </a>&nbsp;&nbsp;
 
  <a href="https://www.instagram.com/asifxohd/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
