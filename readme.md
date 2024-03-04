@@ -61,5 +61,12 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Django_Rest_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Rest Framework" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Django_ORM-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django ORM" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Draw_SQL-000000?style=for-the-badge&logo=sql&logoColor=white" alt="Draw SQL" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Data_Structures-006400?style=for-the-badge" alt="Data Structures" />&nbsp;&nbsp;
+
+
 </p>
 </p>
