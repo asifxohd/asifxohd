@@ -39,9 +39,6 @@ I am a skilled full stack web application developer based in India, specializing
 How to Reach Me: <a href="mailto:asifxohd@gmail.com">asifxohd@gmail.com</a>
 
 </p>
-
-<br/>
-<br/>
 <br/>
 
 ## Technologies and Tools
