@@ -32,13 +32,6 @@
   I am a skilled full stack web application developer based in India, specializing in Python development. With a strong foundation in both front-end and back-end technologies, I excel in crafting dynamic and responsive web applications that meet the unique needs of clients and users. My expertise spans across the entire development lifecycle, from conceptualization and design to implementation and deployment. I am passionate about leveraging the latest tools and frameworks to deliver high-quality, scalable solutions that drive business growth and user engagement. With a keen eye for detail and a commitment to excellence, I strive to continuously enhance my skills and stay updated with the ever-evolving landscape of web development.
 </p>
 
-<!-- Contact Information -->
-## How to Reach Me
-
-<p>
-  Feel free to contact me via email at <a href="mailto:asifxohd@gmail.com">asifxohd@gmail.com</a>.
-</p>
-
 <!-- Technologies and Tools -->
 ## Technologies and Tools
 
