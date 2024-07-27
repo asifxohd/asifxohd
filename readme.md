@@ -35,7 +35,7 @@
 <!-- Technologies and Tools -->
 ## Technologies and Tools
 
-<p>
+<div>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript" />&nbsp;&nbsp;
@@ -60,5 +60,5 @@
   <img src="https://img.shields.io/badge/Draw_SQL-000000?style=for-the-badge&logo=sql&logoColor=white" alt="Draw SQL" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Data_Structures-006400?style=for-the-badge" alt="Data Structures" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/WebSocket-4E4E4E?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSocket" />&nbsp;&nbsp;
-</p>
+</div>
 </p>
