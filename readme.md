@@ -13,7 +13,7 @@
 </p>
 
 <!-- Social Media Links -->
-<p align="center">
+<p>
   <a href="https://asifxohd.github.io/portfolio-website/" target="blank">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Portfolio Website" />
   </a>
@@ -33,7 +33,7 @@ About Me
 <!-- Technologies and Tools -->
 ## Technologies and Tools
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10 px;">
+<div>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript" />
