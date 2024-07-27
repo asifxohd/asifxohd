@@ -28,8 +28,9 @@ About Me
   I am a skilled full stack web application developer based in India, specializing in Python development. With a strong foundation in both front-end and back-end technologies, I excel in crafting dynamic and responsive web applications that meet the unique needs of clients and users. My expertise spans across the entire development lifecycle, from conceptualization and design to implementation and deployment. I am passionate about leveraging the latest tools and frameworks to deliver high-quality, scalable solutions that drive business growth and user engagement. With a keen eye for detail and a commitment to excellence, I strive to continuously enhance my skills and stay updated with the ever-evolving landscape of web development.
 </p>
 <!-- Technologies and Tools -->
-Technologies and Tools
-<div align="center">
+## Technologies and Tools
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript" />&nbsp;&nbsp;
@@ -55,3 +56,4 @@ Technologies and Tools
   <img src="https://img.shields.io/badge/Data_Structures-006400?style=for-the-badge" alt="Data Structures" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/WebSocket-4E4E4E?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSocket" />
 </div>
+
