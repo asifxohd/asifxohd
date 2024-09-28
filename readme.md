@@ -7,7 +7,7 @@
 <p align="center">
   <samp>
     <br>
-    「 I'm a Python full stack developer based in <b>India</b>, proficient in crafting dynamic web applications from front-end to back-end. Passionate about leveraging technology to drive business growth and user engagement 」
+    「 I am a full-stack developer based in India, skilled in building web applications that include both front-end and back-end development, along with DevOps 」
     <br><br>
   </samp>
 </p>
@@ -28,7 +28,7 @@
 <!-- About Section -->
 About Me
 <p align="center">  
-  I am a skilled full stack web application developer based in India, specializing in Python development. With a strong foundation in both front-end and back-end technologies, I excel in crafting dynamic and responsive web applications that meet the unique needs of clients and users. My expertise spans across the entire development lifecycle, from conceptualization and design to implementation and deployment. I am passionate about leveraging the latest tools and frameworks to deliver high-quality, scalable solutions that drive business growth and user engagement. With a keen eye for detail and a commitment to excellence, I strive to continuously enhance my skills and stay updated with the ever-evolving landscape of web development.
+ I enjoy learning about software architectures and solving problems. Rather than just spending time coding, I’m curious about how things work under the hood. I engage in discussions and communities—all in the spirit of learning. I love exploring various technologies and keeping up with the latest trends in the tech world.
 </p>
 <!-- Technologies and Tools -->
 <!-- Technologies and Tools -->
